@@ -1,2 +1,2 @@
 # lessproject
-A sample project built with less
+A sample project built with LESS css preprocesspor
